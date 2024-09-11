@@ -162,10 +162,11 @@ header {
 }
 
 .downloads {
-  display: flex;
-  gap: 8px;
-  flex-direction: column;
-  margin-top: 24px;
+  margin-top: 20px;
+}
+
+.downloads .item:not(:last-child) {
+  margin-bottom: 8px;
 }
 
 .downloads .link {
