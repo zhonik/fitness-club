@@ -77,12 +77,12 @@ header {
 
 .page-nav-list {
   display: flex;
-  gap: 8px;
+  gap: 40px;
 }
 
 .page-nav-list .link {
   display: block;
-  padding: 8px 12px;
+  padding: 0;
   color: #03a9f4;
   text-decoration: none;
   font-size: 14px;
