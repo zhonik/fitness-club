@@ -98,7 +98,18 @@ header {
   color: #f44336;
 }
 
-.page-title {
+.hero {
+  padding: 48px;
+  border-radius: 12px;
+  background-color: #212121;
+  color: #fff;
+  background-image: url(https://ac.goit.global/fullstack/html-css-v2/module-4/autochecks/m04-human.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.hero-title {
   font-size: 32px;
   font-weight: 700;
   text-align: center;
